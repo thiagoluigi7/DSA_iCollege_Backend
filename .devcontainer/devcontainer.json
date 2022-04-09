@@ -15,7 +15,30 @@
 	"settings": {},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"dbaeumer.vscode-eslint"
+		"dbaeumer.vscode-eslint",
+		"PKief.material-icon-theme",
+		"formulahendry.auto-complete-tag",
+		"aaron-bond.better-comments",
+		"mikestead.dotenv",
+		"miguelsolorio.fluent-icons",
+		"zhuangtongfa.material-theme",
+		"ms-vscode-remote.vscode-remote-extensionpack",
+		"ms-vscode-remote.remote-ssh-edit",
+		"streetsidesoftware.code-spell-checker",
+		"ms-azuretools.vscode-docker",
+		"mhutchie.git-graph",
+		"GitHub.vscode-pull-request-github",
+		"eamodio.gitlens",
+		"oderwat.indent-rainbow",
+		"ms-vsliveshare.vsliveshare",
+		"yzhang.markdown-all-in-one",
+		"DavidAnson.vscode-markdownlint",
+		"Prisma.prisma",
+		"rangav.vscode-thunder-client",
+		"Gruntfuggly.todo-tree",
+		"meganrogge.template-string-converter",
+		"richie5um2.vscode-sort-json",
+		"VisualStudioExptTeam.vscodeintellicode"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
