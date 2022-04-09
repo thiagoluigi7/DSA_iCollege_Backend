@@ -19,18 +19,18 @@
 		"editor.fontLigatures": true,
 		"javascript.updateImportsOnFileMove.enabled": "always",
 		"[typescript]": {
-			"editor.defaultFormatter": "esbenp.prettier-vscode"
+			"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 		},
 		"typescript.updateImportsOnFileMove.enabled": "always",
 		"git.autofetch": true,
 		"[typescriptreact]": {
-			"editor.defaultFormatter": "esbenp.prettier-vscode"
+			"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 		},
 		"workbench.iconTheme": "material-icon-theme",
 		"terminal.integrated.cursorStyle": "line",
 		"editor.bracketPairColorization.enabled": true,
 		"[html]": {
-			"editor.defaultFormatter": "esbenp.prettier-vscode"
+			"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 		},
 	},
 	// Add the IDs of extensions you want installed when the container is created.
