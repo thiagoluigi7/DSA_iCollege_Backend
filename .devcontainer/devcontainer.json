@@ -32,6 +32,9 @@
 		"[html]": {
 			"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 		},
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+		}
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
